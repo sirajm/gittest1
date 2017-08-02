@@ -11,6 +11,7 @@ namespace sirajtest
         static void Main(string[] args)
         {
             //Code was edited in github
+            //code was added in VS
         }
     }
 }
